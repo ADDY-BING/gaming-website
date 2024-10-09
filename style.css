@@ -15,7 +15,9 @@ body, html {
     background-color: #000;
     color: #fff;
 }
-
+.color-red{
+    color: #e1212c !important;
+}
 .content {
     text-align: center;
 }
